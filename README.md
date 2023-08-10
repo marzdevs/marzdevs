@@ -8,8 +8,8 @@ I have had a passion in programming for 8 years now and I am a recent graduate w
 
 * 🌍  I'm based in the US.
 * ✉️  You can contact me at [marzcodes@gmail.com](mailto:marzcodes@gmail.com)
-* 🧠  I'm learning React.
-* 🤝  I'm open to collaborating on projects that will be of benefit to people.
+* 🧠  I'm learning new things everyday.
+* 🤝  I'm open to collaborating on open source projects.
 * ⚡  I am in love with web design and photography.
 
 
