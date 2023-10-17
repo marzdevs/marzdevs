@@ -7,7 +7,6 @@ Software Engineer.
 I have had a passion in programming for 8 years now and I am a recent graduate with a bachelor's degree in Computer Science. I am always looking for new things to learn daily and do projects on the side along with freelancing.
 
 * 🌍  I'm based in the US.
-* ✉️  You can contact me at [marzcodes@gmail.com](mailto:marzcodes@gmail.com)
 * 🧠  I'm learning new things everyday.
 * 🤝  I'm open to collaborating on open source projects.
 * ⚡  I am in love with web design and photography.
