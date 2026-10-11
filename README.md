@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marwa.
 =============================================================================================================================
 
-Software Engineer.
+Software Developer.
 ------------------
 
 I have had a passion in programming for 8 years now and I am a recent graduate with a bachelor's degree in Computer Science. I am always looking for new things to learn daily and do projects on the side along with freelancing.
